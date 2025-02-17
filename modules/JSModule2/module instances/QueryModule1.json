@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67b399212b54a628aacd9f8f_b02347cc-d8cc-499d-8c37-e432f51757e7",
+  "id": "JSModule2_QueryModule1",
+  "moduleUUID": "5796f259-d958-4844-9d48-94f8f64b031e",
+  "packageUUID": "def810e7-b76b-44b5-bfec-1cc8c95143af",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "input1": "7"
+    },
+    "moduleInputs": {
+      "vcerncgyjw": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "7",
+        "id": "vcerncgyjw",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "QueryModule1"
+  }
+}
